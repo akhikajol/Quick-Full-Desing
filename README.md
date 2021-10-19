@@ -1,2 +1,7 @@
-# Quick-Full-Desing
+#
+
+Quick-Full-Desing
 Quick
+
+
+https://akhikajol.github.io/Quick-Full-Desing/
